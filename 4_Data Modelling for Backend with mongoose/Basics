@@ -1,0 +1,48 @@
+/*
+Sabse pahle ek authentication page me login screen banau ya regsiter?
+
+Sabse Pahle kya kya data store karna hai vo user se lete to Register banate..
+-Username
+-Email (Ye sab data fields hai)
+-Password
+-Register Button
+
+Ek bhi field aur ane me pura data model ka structure badal jayega jaise PHOTO
+to sabse pahli chinta isi baat ki kro
+
+
+Iske baad login page me : login new entry nhi le rha, balki ye already stored data pe kam kr rha 
+
+
+Ek to-do bana rhe:
+    Youtube Todo
+    Job Todo
+    Gym Todo
+
+
+    Youtube Todo: 
+        - Content 
+        - MarkedAsDone
+        - Creation Date
+
+        Title Color 
+
+Project banane se pahle mind me picture clear rakhna
+
+
+Mongoose : Elegant mongodb object modelling in nodejs
+isko padhne ka ek tarika hai
+
+
+Phase 2 : 
+
+    codesandbox
+    github codespaces
+    stackblitz
+
+    iske liye stackblitz use kiya
+    abhi todos me data kaise dalunga vo controller ka kam hai hm dekhenge store kaise krenge
+
+    Head to Stackblitz
+    https://stackblitz.com/edit/stackblitz-starters-xrdsv6wp
+*/
